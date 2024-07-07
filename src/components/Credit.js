@@ -7,7 +7,7 @@ export default function Credit() {
       Made by:
       <a href="https://www.linkedin.com/in/anshulmishra74/"
         > Anshul Mishra</a
-      >, <a href="">Github Link</a> 
+      >, <a href="https://github.com/anshulmishra19/React-weather-app">Github Link</a> 
     </p>
   </div>
   );
