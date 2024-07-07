@@ -1,19 +1,19 @@
 # React Weather App
 
+# Objective
+A web application using React and Material-UI to provide real-time weather data and a 7-day forecast for cities worldwide.
+
+# Technologies:
+React, Material-UI for styling, OpenWeatherMap API for weather data, Chart.js / Recharts for data visualization.
+
 
 
 # Features
 - Users can search for weather conditions of any city in the world.
 - The app displays the current weather conditions, including temperature and weather description.
-- The app utilizes the SheCodes Weather API to fetch weather data.
+- Search functionality, current weather display, 7-day forecast visualization, responsive design, error handling.
 
-# Technologies & Tools Used
-- React.js
-- HTML
-- CSS
-- JavaScript
-- VS Code
-- SheCodes Weather API
+
 
 # Installation and Usage
 To use this app, you can follow these steps:
@@ -26,8 +26,6 @@ To use this app, you can follow these steps:
 
 To use the app, simply type the name of the city you want to search for in the search bar and press Enter. The app will display the current weather conditions for the searched city.
 
-# Demo
-A live demo of the React Weather App is available at [LINK TO LIVE DEMO](https://react-weather-app-shemmee.netlify.app).
 
 # Credits
 - The weather app was created by [s-shemmee](https://github.com/s-shemmee) as a final project for the SheCodes React workshop.
